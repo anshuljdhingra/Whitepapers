@@ -1,6 +1,6 @@
 # Whitepapers
 
-Published at - https://independent.academia.edu/anshuldhingra3
+Published at - https://independent.academia.edu/anshuldjhingra
 
 
 Paper - Activation Functions in Neural Networks
